@@ -1,0 +1,4 @@
+c:\users\kaptinboxxi\documents\visual studio 2010\Projects\TPSLauncher\TPSLauncher\bin\Debug\TPSLauncher.exe
+C:\Users\KaptinBoxxi\documents\visual studio 2010\Projects\TPSLauncher\TPSLauncher\obj\x86\Debug\TPSLauncher.TPSLauncher.resources
+C:\Users\KaptinBoxxi\documents\visual studio 2010\Projects\TPSLauncher\TPSLauncher\obj\x86\Debug\TPSLauncher.Resources.resources
+C:\Users\KaptinBoxxi\documents\visual studio 2010\Projects\TPSLauncher\TPSLauncher\obj\x86\Debug\TPSLauncher.vbproj.GenerateResource.Cache
